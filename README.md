@@ -6,5 +6,6 @@ O objetivo desta implementação era demonstrar aos alunos como criar um projeto
 
 Dúvidas sobre o projeto: fabricio.herpich@gmail.com
 
-Para mais informações sobre Flutter, acesse:
-[Documentação](https://docs.djangoproject.com/en/3.2/ref/templates/language/).
+Para mais informações sobre o Django, acesse:
+[Documentação](https://docs.djangoproject.com/en/3.2/) e 
+[Django Template Language](https://docs.djangoproject.com/en/3.2/ref/templates/language/).
